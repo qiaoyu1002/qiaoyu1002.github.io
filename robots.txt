@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://qiaoyu1002.github.io/123.github.io/sitemap.xml
+Sitemap: https://qiaoyu1002.github.io/sitemap.xml

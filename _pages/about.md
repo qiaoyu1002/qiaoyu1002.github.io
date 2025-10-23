@@ -3,17 +3,15 @@ layout: about
 title: about
 permalink: /
 subtitle: |
-  **Affiliation:** Kyung Hee University, South Korea  
-  **Email:** <a href="mailto:qiaoyu@khu.ac.kr">qiaoyu@khu.ac.kr</a>  
-  **Profile:** <a href="https://scholar.google.com/citations?user=oKANWloAAAAJ&hl=en">Google Scholar</a>
+  Kyung Hee University  
+  <a href="mailto:qiaoyu@khu.ac.kr">qiaoyu@khu.ac.kr</a>  
+  <a href="https://scholar.google.com/citations?user=2I_yzrUAAAAJ&hl=en">Google Scholar</a>
 
 profile:
   align: right
   image: prof_pic_qiao.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
     <p>Yongin, South Korea</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -38,7 +36,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am currently a Research Professor at the School of Computing, Kyung Hee University (KHU), Yongin, South Korea. 
 
-I obtained my B.E. degree and M.E. degree from Nanjing University of Information Science and Technology (NUIST) in 2016 and 2019, respectively, and obtained my Ph.D. degree in Artificial Intelligence from Kyung Hee University (KHU), Yongin, South Korea, in 2025, supervised by [Prof. Choong Seon Hong](https://scholar.google.com/citations?user=oKANWloAAAAJ&hl=en). I also served as a Software Engineer at Spreadtrum Communications (UNISOC), Shanghai, China, from 2019 to 2022. 
+I obtained my Ph.D. degree at School of Computing from Kyung Hee University (KHU), Yongin, South Korea, in 2025,supervised by [Prof. Choong Seon Hong](https://scholar.google.com/citations?user=oKANWloAAAAJ&hl=en). I also served as a Camera Software Engineer at Spreadtrum Communications (UNISOC), Shanghai, China, from 2019 to 2022. 
 
 My research interests are in efficient & trustworthy AI, federated learning, and adversarial machine learning. 
 

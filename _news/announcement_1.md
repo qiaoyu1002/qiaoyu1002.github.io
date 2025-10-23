@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-We are excited to share that one paper has been accepted in the IEEE TNSE journal! :sparkles: :smile:
+<!-- :smile: -->
+
+We are excited to share that one paper has been accepted in the IEEE TNSE journal. :sparkles: 

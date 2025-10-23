@@ -3,19 +3,23 @@ layout: about
 title: about
 permalink: /
 subtitle: |
-  Kyung Hee University  
-  <a href="mailto:qiaoyu@khu.ac.kr">qiaoyu@khu.ac.kr</a>  
-  <a href="https://scholar.google.com/citations?user=2I_yzrUAAAAJ&hl=en">Google Scholar</a>
+  Research Professor at Kyung Hee University, South Korea.
 
 profile:
   align: right
   image: prof_pic_qiao.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Yongin, South Korea</p>
+  social:
+    email: qiaoyu@khu.ac.kr
+    github: https://github.com/qiaoyu1002
+    scholar: https://scholar.google.com/citations?user=2I_yzrUAAAAJ&hl=en
+    # linkedin: your-linkedin-username
+    # orcid: 0000-0000-0000-0000
+  # more_info: >
+  #   <p>Yongin-si, South Korea</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -34,9 +38,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am currently a Research Professor at the School of Computing, Kyung Hee University (KHU), Yongin, South Korea. 
+I am currently a Research Professor at the School of Computing, Kyung Hee University (KHU), Yongin-si, South Korea. 
 
-I obtained my Ph.D. degree at School of Computing from Kyung Hee University (KHU), Yongin, South Korea, in 2025,supervised by [Prof. Choong Seon Hong](https://scholar.google.com/citations?user=oKANWloAAAAJ&hl=en). I also served as a Camera Software Engineer at Spreadtrum Communications (UNISOC), Shanghai, China, from 2019 to 2022. 
+I obtained my Ph.D. degree at School of Computing from Kyung Hee University (KHU), Yongin-si, South Korea, in 2025,supervised by [Prof. Choong Seon Hong](https://scholar.google.com/citations?user=oKANWloAAAAJ&hl=en). I also served as a Camera Software Engineer at Spreadtrum Communications (UNISOC), Shanghai, China, from 2019 to 2022. 
 
 My research interests are in efficient & trustworthy AI, federated learning, and adversarial machine learning. 
 

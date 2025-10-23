@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Yu Qiao
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15 Nov. 1993
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Kyung Hee University, Yongin-si, Switzerland
+      year: 2022
       description:
         - Description 1.
         - Description 2.

@@ -45,7 +45,7 @@ I obtained my M.E. degree at the School of Computing from Nanjing University of 
 
 My research interests are in efficient & trustworthy AI, federated learning, and adversarial machine learning. 
 
-**I am currently on the job market, <span style="color:red;">seeking a full-time research or teaching position</span>.** Please feel free to reach out if you have potential job opportunities. You can access my <a href="/assets/pdf/Yu_Qiao_CV_20251023.pdf" target="_blank">CV</a> here and contact me via <a href="mailto:qiaoyu@khu.ac.kr">qiaoyu@khu.ac.kr</a>.
+I am currently on the job market, <span style="color:red;">seeking a full-time research or teaching position</span>. Please feel free to reach out if you have potential job opportunities. You can access my <a href="/assets/pdf/Yu_Qiao_CV_20251023.pdf" target="_blank">CV</a> here and contact me via <a href="mailto:qiaoyu@khu.ac.kr">qiaoyu@khu.ac.kr</a>.
 
 
 

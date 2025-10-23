@@ -9,10 +9,6 @@ profile:
   align: right
   image: prof_pic_qiao.jpg
   image_circular: false # crops the image to make it circular
-  social:
-    email: qiaoyu@khu.ac.kr
-    github: https://github.com/qiaoyu1002
-    scholar: https://scholar.google.com/citations?user=2I_yzrUAAAAJ&hl=en
     # linkedin: your-linkedin-username
     # orcid: 0000-0000-0000-0000
   # more_info: >

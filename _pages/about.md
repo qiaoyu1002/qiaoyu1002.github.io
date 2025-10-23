@@ -6,7 +6,7 @@ subtitle: |
   Research Professor at Kyung Hee University, South Korea.
 
 profile:
-  align: left
+  align: right
   image: prof_pic_qiao.jpg
   image_circular: false # crops the image to make it circular
   social:

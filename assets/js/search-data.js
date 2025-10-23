@@ -385,8 +385,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/temp_announcement_2/";
-            },},{id: "news-we-are-pleased-to-share-that-one-paper-get-accepted-in-ieee-tnse-journal-emoji-sparkles-smile",
-          title: 'We are pleased to share that one paper get accepted in IEEE TNSE...',
+            },},{id: "news-we-are-excited-to-share-that-one-paper-has-been-accepted-for-publication-in-the-ieee-tnse-journal-emoji-sparkles-smile",
+          title: 'We are excited to share that one paper has been accepted for publication...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

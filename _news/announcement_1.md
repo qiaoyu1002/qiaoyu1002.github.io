@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are pleased to share that one paper get accepted in IEEE TNSE journal emoji! :sparkles: :smile:
+We are excited to share that one paper has been accepted for publication in the IEEE TNSE journal! emoji! :sparkles: :smile:

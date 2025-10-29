@@ -444,7 +444,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/486084346", "_blank");
+          window.open("https://www.linkedin.com/in/yu-qiao-486084346", "_blank");
         },
       },{
         id: 'social-scholar',

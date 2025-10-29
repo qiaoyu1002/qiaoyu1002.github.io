@@ -447,6 +447,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/yu-qiao-486084346", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Yu-Qiao-52?ev=hdr_xprf/", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',

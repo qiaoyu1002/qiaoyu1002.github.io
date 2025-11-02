@@ -384,7 +384,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-are-excited-to-share-that-one-paper-has-been-accepted-in-the-ieee-tnse-journal-sparkles",
+            },},{id: "news-we-are-excited-to-share-that-one-paper-has-been-accepted-in-the-ieee-ieee-transactions-on-network-science-and-engineering-tnse-journal-sparkles",
           title: 'We are excited to share that one paper has been accepted in the...',
           description: "",
           section: "News",},{id: "news-we-are-excited-to-share-that-one-paper-has-been-accepted-in-the-acm-computing-survey-csur-journal-sparkles",

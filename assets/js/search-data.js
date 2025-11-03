@@ -387,7 +387,7 @@ ninja.data = [{
             },},{id: "news-we-are-excited-to-share-that-one-paper-has-been-accepted-in-the-ieee-transactions-on-network-science-and-engineering-tnse-journal-sparkles",
           title: 'We are excited to share that one paper has been accepted in the...',
           description: "",
-          section: "News",},{id: "news-we-are-excited-to-share-that-one-paper-has-been-accepted-in-the-acm-computing-survey-csur-journal-sparkles",
+          section: "News",},{id: "news-we-are-excited-to-share-that-one-paper-has-been-accepted-in-the-acm-computing-surveys-csur-journal-sparkles",
           title: 'We are excited to share that one paper has been accepted in the...',
           description: "",
           section: "News",},{id: "projects-project-1",

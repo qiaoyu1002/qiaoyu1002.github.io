@@ -40,7 +40,7 @@ I am currently a Research Professor at the School of Computing, Kyung Hee Univer
 
 I obtained my M.E. degree at the School of Computing from Nanjing University of Information Science and Technology (NUIST), China, in 2019, and my Ph.D. degree at School of Computing from Kyung Hee University (KHU), South Korea, in 2025. I also served as a Camera Software Engineer at Spreadtrum Communications (UNISOC), Shanghai, China, from 2019 to 2022. 
 
-My research interests are in efficient & trustworthy AI, federated learning, and adversarial machine learning. I am currently on the job market, <span style="color:red;">seeking a full-time postdoctoral research or teaching position</span>. Please feel free to reach out if you have potential job opportunities. You can access my <a href="/assets/pdf/Yu_Qiao_CV_20251023.pdf" target="_blank">CV</a> here and contact me via <a href="mailto:qiaoyu1002@gmail.com">qiaoyu1002@gmail.com</a>.
+My research interests are in efficient & trustworthy AI, federated learning, and adversarial machine learning. I am currently on the job market, <span style="color:red;">seeking a full-time postdoctoral research or teaching position</span>. Please feel free to reach out if you have potential job opportunities. You can access my <a href="/assets/pdf/Yu_Qiao_CV_20251103.pdf" target="_blank">CV</a> here and contact me via <a href="mailto:qiaoyu1002@gmail.com">qiaoyu1002@gmail.com</a>.
 
 
 

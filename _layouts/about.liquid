@@ -77,8 +77,33 @@ layout: default
       {% include newsletter.liquid center=true %}
     {% endif %}
 
-    <div style="width: 150px; margin: 0 auto">
-    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=QxOQkM3FHXzXxkVWGvACee7kXRwgJpfXyrG7agF4JDM&cl=ffffff&w=a"></script>  
+    <!-- MapMyVisitors -->
+    <div style="width:150px;margin:0 auto;text-align:center;">
+      <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=QxOQkM3FHXzXxkVWGvACee7kXRwgJpfXyrG7agF4JDM&cl=ffffff&w=a"></script>  
+    
+      <!-- Visit time (YOUR local time) -->
+      <div style="margin-top:6px;font-size:12px;opacity:0.8;">
+        Visit time (my local):<br>
+        <span id="myLocalVisitTime"></span>
+      </div>
     </div>
+
+    <script>
+      // 固定显示“你的当地时间”（这里是 Asia/Seoul）
+      const visitTime = new Date().toLocaleString("en-US", {
+        timeZone: "Asia/Seoul",
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit",
+        second: "2-digit"
+      });
+
+      document.getElementById("myLocalVisitTime").textContent = visitTime;
+    </script>
+
+
+    
   </article>
 </div>

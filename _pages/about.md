@@ -8,7 +8,8 @@ subtitle: |
 profile:
   align: right
   image: prof_pic_qiao2.png
-  image_circular: false # crops the image to make it circular
+  image_circular:
+    false # crops the image to make it circular
     # linkedin: your-linkedin-username
     # orcid: 0000-0000-0000-0000
   # more_info: >
@@ -33,18 +34,14 @@ latest_posts:
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. --> 
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 <!-- , supervised by [Prof. Zilong Jin](https://scholar.google.com/citations?user=t06H6QgAAAAJ&hl=en) -->
 <!-- , supervised by [Prof. Choong Seon Hong](https://scholar.google.com/citations?user=oKANWloAAAAJ&hl=en) -->
 
-I am currently a Research Professor at the School of Computing, Kyung Hee University (KHU), South Korea. 
+I am currently a Research Professor at the School of Computing, Kyung Hee University (KHU), South Korea.
 
-I received my B.E. degree in Internet of Things Engineering in 2016, my M.E. degree in Computer Science and Technology from Nanjing University of Information Science and Technology (NUIST), Nanjing, China, in 2019, and my Ph.D. degree in Artificial Intelligence from Kyung Hee University (KHU), South Korea, in 2025. I am currently a Research Professor in the School of Computing, Kyung Hee University (KHU), South Korea. Prior to my Ph.D., I worked as an R&D Engineer at Spreadtrum Communications (UNISOC), Shanghai, China, from 2019 to 2022. 
+I received my B.E. degree in Internet of Things Engineering in 2016, my M.E. degree in Computer Science and Technology from Nanjing University of Information Science and Technology (NUIST), Nanjing, China, in 2019, and my Ph.D. degree in Artificial Intelligence from Kyung Hee University (KHU), South Korea, in 2025. I am currently a Research Professor in the School of Computing, Kyung Hee University (KHU), South Korea. Prior to my Ph.D., I worked as an R&D Engineer at Spreadtrum Communications (UNISOC), Shanghai, China, from 2019 to 2022.
 
 My interests include efficient and trustworthy AI, generative AI (AIGC), computer vision, and wireless networking. I have high-impact IEEE journal and conference papers, and serves as a reviewer for leading journals, including IEEE Transactions on Information Forensics and Security, IEEE Transactions on Cognitive Communications and Networking, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Mobile Computing, etc.
 
-
 I am currently on the job market, <span style="color:red;">seeking a full-time postdoctoral research or teaching position</span>. Please feel free to reach out if you have potential job opportunities. You can access my <a href="/assets/pdf/Yu_Qiao_CV_20251112.pdf" target="_blank">CV</a> here and contact me via <a href="mailto:qiaoyu1002@gmail.com">qiaoyu1002@gmail.com</a>.
-
-
-

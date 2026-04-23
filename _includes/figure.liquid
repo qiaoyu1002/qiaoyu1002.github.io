@@ -2,9 +2,9 @@
 {% assign parts = include.path | split: '.' %}
 {% assign ext = parts.last %}
 {% assign cache_bust_query = '' %}
-{% if include.cache_bust %}
-  {% assign _busted = include.path | relative_url | bust_file_cache %}
-  {% assign cache_bust_query = '?' | append: (_busted | split: '?' | last) %}
+{% if include.cache_bust and include.path and include.path contains 'assets/' %}
+  {% assign busted_path = include.path | bust_file_cache %}
+  {% assign cache_bust_query = '?' | append: (busted_path | split: '?' | last) %}
 {% endif %}
 
 <figure

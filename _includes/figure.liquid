@@ -1,11 +1,6 @@
 {% assign img_path = include.path | remove: '.jpg' | remove: '.jpeg' | remove: '.png' | remove: '.tiff' | remove: '.gif' %}
 {% assign parts = include.path | split: '.' %}
 {% assign ext = parts.last %}
-{% assign cache_bust_query = '' %}
-{% if include.cache_bust and include.path and include.path contains 'assets/' %}
-  {% assign busted_path = include.path | bust_file_cache %}
-  {% assign cache_bust_query = '?' | append: (busted_path | split: '?' | last) %}
-{% endif %}
 
 <figure
   {% if include.slot %}
@@ -23,7 +18,7 @@
         <source
           class="responsive-img-srcset"
           {% if ext == 'gif' or ext == 'jpeg' or ext == 'jpg' or ext == 'png' or ext == 'tiff' %}
-            srcset="{% for i in site.imagemagick.widths %}{{ img_path | relative_url }}-{{ i }}.webp{{ cache_bust_query }} {{ i }}w,{% endfor %}"
+            srcset="{% for i in site.imagemagick.widths %}{{ img_path | relative_url }}-{{ i }}.webp {{ i }}w,{% endfor %}"
             type="image/webp"
           {% else %}
             srcset="{{ include.path | relative_url }}"

@@ -9,4 +9,3 @@ related_posts: false
 
 We are pleased to announce that one of our papers has been accepted for publication in the *IEEE Transactions on Network Science and Engineering* (IEEE TNSE) journal.
 
-

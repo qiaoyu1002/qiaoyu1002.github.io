@@ -387,13 +387,17 @@ ninja.data = [{
             },},{id: "news-we-are-pleased-to-announce-that-one-of-our-papers-has-been-accepted-for-publication-in-the-ieee-transactions-on-network-science-and-engineering-ieee-tnse-journal",
           title: 'We are pleased to announce that one of our papers has been accepted...',
           description: "",
-          section: "News",},{id: "news-we-are-pleased-to-announce-that-one-of-our-papers-has-been-accepted-for-publication-in-the-acm-computing-surveys-acm-csur-journal",
-          title: 'We are pleased to announce that one of our papers has been accepted...',
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
-          section: "News",},{id: "news-we-are-pleased-to-announce-that-one-of-our-papers-has-been-accepted-for-publication-in-the-ieee-internet-of-things-ieee-iot-journal",
-          title: 'We are pleased to announce that one of our papers has been accepted...',
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-announcement-3",
+          title: 'Announcement_3',
           description: "",
-          section: "News",},{id: "news-we-are-pleased-to-announce-that-one-of-our-papers-has-been-accepted-for-publication-in-the-acm-computing-surveys-acm-csur-journal",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-we-are-pleased-to-announce-that-one-of-our-papers-has-been-accepted-for-publication-in-the-acm-computing-surveys-acm-csur-journal",
           title: 'We are pleased to announce that one of our papers has been accepted...',
           description: "",
           section: "News",},{id: "news-we-are-pleased-to-announce-that-one-of-our-papers-has-been-accepted-for-publication-in-the-ieee-transactions-on-pattern-analysis-and-machine-intelligence-ieee-tpami-journal",

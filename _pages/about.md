@@ -46,4 +46,4 @@ My research interests include federated learning, federated foundation models, t
 
 <!-- I am currently on the job market, <span style="color:red;">seeking a part-time postdoctoral researchposition</span>. -->
 
-I am always open to collaborations and academic discussions. Feel free to check out my <a href="/assets/pdf/Yu_Qiao_CV_20251112.pdf" target="_blank">CV</a> or contact me at <a href="mailto:qiaoyu1002@gmail.com">qiaoyu1002@gmail.com</a>.
+I am always open to collaborations and academic discussions. Feel free to check out my <a href="/assets/pdf/Yu_Qiao_CV_20261118.pdf" target="_blank">CV</a> or contact me at <a href="mailto:qiaoyu1002@gmail.com">qiaoyu1002@gmail.com</a>.

@@ -3,11 +3,11 @@ layout: about
 title: about
 permalink: /
 subtitle: |
-  Research Professor at Kyung Hee University, South Korea.
+  Associate Professor at the School of Information Science and Engineering, Zhejiang Sci-Tech University, Hangzhou, China.
 
 profile:
   align: right
-  image: prof_pic_qiao4.png
+  image: prof_pic_qiao5.png
   image_circular:
     false # crops the image to make it circular
     # linkedin: your-linkedin-username
@@ -38,10 +38,12 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <!-- , supervised by [Prof. Zilong Jin](https://scholar.google.com/citations?user=t06H6QgAAAAJ&hl=en) -->
 <!-- , supervised by [Prof. Choong Seon Hong](https://scholar.google.com/citations?user=oKANWloAAAAJ&hl=en) -->
 
-I am currently a Research Professor at the School of Computing, Kyung Hee University (KHU), South Korea.
+I am currently an Associate Professor at the School of Information Science and Engineering (School of Cyber Science and Technology), Zhejiang Sci-Tech University (ZSTU), Hangzhou, China.
 
-I received my B.E. degree in Internet of Things Engineering in 2016, my M.E. degree in Computer Science and Technology from Nanjing University of Information Science and Technology (NUIST), Nanjing, China, in 2019, and my Ph.D. degree in Artificial Intelligence from Kyung Hee University (KHU), South Korea, in 2025. I am currently a Research Professor in the School of Computing, Kyung Hee University (KHU), South Korea. Prior to my Ph.D., I worked as an R&D Engineer at Spreadtrum Communications (UNISOC), Shanghai, China, from 2019 to 2022.
+I received my B.Eng. degree in Internet of Things Engineering in 2016, my M.Eng. degree in Computer Science and Technology from Nanjing University of Information Science and Technology (NUIST), Nanjing, China, in 2019, and my Ph.D. degree in Artificial Intelligence from Kyung Hee University (KHU), Yongin-si, South Korea, in 2025. Prior to pursuing my Ph.D., I worked as an R&D Engineer at Spreadtrum Communications (UNISOC), Shanghai, China, from 2019 to 2022.
 
-My interests include efficient and trustworthy AI, generative AI (AIGC), computer vision, and wireless networking. I have high-impact IEEE journal and conference papers, and serves as a reviewer for leading journals, including IEEE Transactions on Information Forensics and Security, IEEE Transactions on Cognitive Communications and Networking, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Mobile Computing, etc.
+My research interests include federated learning, federated foundation models, trustworthy and robust AI, and their applications in computer vision and wireless communications. I have published papers in leading IEEE journals and conferences and serve as a reviewer for several prestigious journals, including IEEE Transactions on Information Forensics and Security, IEEE Transactions on Cognitive Communications and Networking, IEEE Transactions on Circuits and Systems for Video Technology, and IEEE Transactions on Mobile Computing.
 
-I am currently on the job market, <span style="color:red;">seeking a part-time postdoctoral researchposition</span>. Please feel free to reach out if you have potential job opportunities. You can access my <a href="/assets/pdf/Yu_Qiao_CV_20251112.pdf" target="_blank">CV</a> here and contact me via <a href="mailto:qiaoyu1002@gmail.com">qiaoyu1002@gmail.com</a>.
+<!-- I am currently on the job market, <span style="color:red;">seeking a part-time postdoctoral researchposition</span>. -->
+
+I am always open to collaborations and academic discussions. Feel free to check out my <a href="/assets/pdf/Yu_Qiao_CV_20251112.pdf" target="_blank">CV</a> or contact me at <a href="mailto:qiaoyu1002@gmail.com">qiaoyu1002@gmail.com</a>.

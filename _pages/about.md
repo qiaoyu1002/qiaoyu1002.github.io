@@ -7,7 +7,7 @@ subtitle: |
 
 profile:
   align: right
-  image: prof_pic_qiao4.png
+  image: prof_pic_qiao6.jpg
   image_circular:
     false # crops the image to make it circular
     # linkedin: your-linkedin-username

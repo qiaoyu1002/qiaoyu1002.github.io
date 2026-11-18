@@ -8,4 +8,3 @@ related_posts: false
 <!-- :smile: -->
 
 We are pleased to announce that one of our papers has been accepted for publication in the **IEEE Transactions on Pattern Analysis and Machine Intelligence** (IEEE TPAMI) journal.
-
